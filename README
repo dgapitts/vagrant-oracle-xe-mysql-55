@@ -1,0 +1,10 @@
+The proejct is largerly a training exercise in Vagrant and Puppet.
+
+I do also want to be able to run Oracle-XE and MySQL5.5 in parallel.
+
+I am blogging about this under : http://haildata.net/tag/vagrant-oracle-xe-mysql-55/
+
+I point to note, is that before you can build the oracle-xe environment you will need to
+sign the Oracle EULA and download the rpm for yourself (i.e. oracle-xe-11.2.0-1.0.x86_64.rpm.zip)
+
+ 
